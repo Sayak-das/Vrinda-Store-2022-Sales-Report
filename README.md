@@ -20,7 +20,7 @@ Sales by States: Breakdown of sales by different city categories.
 Comparative Analysis: Year-over-year comparison to identify growth trends and areas needing improvement.
 
 # Files
-Vrinda_Store_Sales_Report_2022.xlsx: The main Excel file containing the dashboard and all data used for analysis.
+Vrinda Store Data Analysis.xlsx: The main Excel file containing the dashboard and all data used for analysis.
 # How to Use
 Open the Excel File: Open Vrinda_Store_Sales_Report_2022.xlsx using Microsoft Excel.
 
